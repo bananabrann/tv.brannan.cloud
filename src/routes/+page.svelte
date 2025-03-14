@@ -6,7 +6,7 @@
   <StreamingService
     name=""
     linkUrl="https://www.netflix.com/"
-    imageUrl="https://files.brannan.cloud/tv-files/netflix-450x174.jpg"
+    imageUrl="https://brannancloudstorage.blob.core.windows.net/tv-files/netflix-450x174.jpg"
   />
 
   <StreamingService
@@ -18,25 +18,25 @@
   <StreamingService
     name=""
     linkUrl="https://youtube.com/"
-    imageUrl="https://files.brannan.cloud/tv-files/youtube-450x174.jpg"
+    imageUrl="https://brannancloudstorage.blob.core.windows.net/tv-files/youtube-450x174.jpg"
   />
 
   <StreamingService
     name=""
     linkUrl="https://www.hulu.com/"
-    imageUrl="https://files.brannan.cloud/tv-files/hulu-450x174.jpg"
+    imageUrl="https://brannancloudstorage.blob.core.windows.net/tv-files/hulu-450x174.jpg"
   />
 
   <StreamingService
     name=""
     linkUrl="https://www.hulu.com/hub/sports"
-    imageUrl="https://files.brannan.cloud/tv-files/espn-450x174.jpg"
+    imageUrl="https://brannancloudstorage.blob.core.windows.net/tv-files/espn-450x174.jpg"
   />
 
   <StreamingService
     name=""
     linkUrl="https://www.disneyplus.com/"
-    imageUrl="https://files.brannan.cloud/tv-files/disney-450x174.png"
+    imageUrl="https://brannancloudstorage.blob.core.windows.net/tv-files/disney-450x174.png"
   />
 
   <StreamingService
